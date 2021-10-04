@@ -1,16 +1,18 @@
-### Hi there 👋
+### Select projects
 
-<!--
-**cookm346/cookm346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Data analysis
 
-Here are some ideas to get you started:
+- LOST transcript analysis
+- Professional boxer analysis
+- Master angler analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Machine learning projects
+- Bob Ross IMDb rating predictions
+
+#### Probability simulation work
+- Birthday problem simulation
+- Monty Hall simulation
+
+#### Statistics simulation work
+- Median split simulations
+- t-test simulations
