@@ -8,7 +8,7 @@
 
 #### Machine learning projects
 - [Bob Ross IMDb rating predictions](https://github.com/cookm346/bob_ross_imdb)
-- [LOST episode analysis](https://github.com/cookm346/lost_episode_analysis)
+- [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis)
 
 #### Probability simulation work
 - [Birthday problem simulation](https://github.com/cookm346/birthday_problem_simulation)
