@@ -1,8 +1,3 @@
-#hp  {
-float: right;    
- margin: 0 0 0 15px;
-}
-
 ### Select projects
 
 #### Data analysis
