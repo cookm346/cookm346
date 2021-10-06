@@ -10,7 +10,7 @@
 
 <a href="https://github.com/cookm346/empirical_bayes_boxing"><img align="left" src="images/joel-muniz-_wCdhOulQVc-unsplash_small.jpg" style="margin-right: 20px; margin-bottom: 20px;"></a> [Professional boxer analysis](https://github.com/cookm346/empirical_bayes_boxing) 
 
-<p>In this analysis I use Empirical Bayesian techniques to better estimate a boxer's win rate. This technique is espetially effective for boxer's who have a very small number of boxing matches under their belt</p>
+<p>In this analysis I use Empirical Bayesian techniques to better estimate a boxer's win rate. This technique is especially effective for boxer's who have a very small number of boxing matches under their belt</p>
 
 <br clear="left"/>
 
