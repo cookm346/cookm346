@@ -2,7 +2,7 @@
 
 #### Data analysis
 
-<a href="https://github.com/cookm346/lost_transcript_analysis"><img align="left" src="images/benjamin-behre-PB_SdlCPCDs-unsplash_small.jpg" style="margin-right: 20px; margin-top: 20px;"></a> [LOST transcript analysis](https://github.com/cookm346/lost_transcript_analysis) 
+<a href="https://github.com/cookm346/lost_transcript_analysis"><img align="left" src="images/benjamin-behre-PB_SdlCPCDs-unsplash_small.jpg"></a> [LOST transcript analysis](https://github.com/cookm346/lost_transcript_analysis) 
 
 Analysis of transcripts form the hit tv show Lost
 
