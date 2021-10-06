@@ -8,7 +8,12 @@ Analysis of transcripts form the hit tv show Lost
 
 <br clear="left"/>
 
-- [Professional boxer analysis](https://github.com/cookm346/empirical_bayes_boxing)
+<a href="https://github.com/cookm346/empirical_bayes_boxing"><img align="left" src="images/joel-muniz-_wCdhOulQVc-unsplash_small.jpg" style="margin-right: 20px; margin-bottom: 20px;"></a> [Professional boxer analysis](https://github.com/cookm346/empirical_bayes_boxing) 
+
+In this analysis I use Empirical Bayesian techniques to better estimate a boxer's win rate. This technique is espetially effective for boxer's who have a very small number of boxing matches under their belt
+
+<br clear="left"/>
+
 - [Master angler analysis](https://github.com/cookm346/master_angler_analysis)
 
 <br />
