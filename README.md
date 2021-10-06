@@ -14,7 +14,11 @@
 
 <br clear="left"/>
 
-- [Master angler analysis](https://github.com/cookm346/master_angler_analysis)
+<a href="https://github.com/cookm346/master_angler_analysis"><img align="left" src="images/anne-nygard-viq9Ztqi3Vc-unsplash_small.jpg" style="margin-right: 20px; margin-bottom: 20px;"></a> [Master angler analysis](https://github.com/cookm346/master_angler_analysis) 
+
+<p>I scrape 400,000+ trophy fish records from Manitoba and analyze fish catching trends over time, women's involvement in sport fishing, as well as find several hot fish/lake/season combos for catching big fish</p>
+
+<br clear="left"/>
 
 <br />
 
