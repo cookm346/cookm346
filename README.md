@@ -11,7 +11,7 @@
 - [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis)
 
 #### Probability simulation work
-- [Birthday problem simulation](https://github.com/cookm346/birthday_problem_simulation)
+- <img align="left" src="images/adi-goldstein-Hli3R6LKibo-unsplash_small.jpg"> [Birthday problem simulation](https://github.com/cookm346/birthday_problem_simulation)
 - [Monty Hall simulation](https://github.com/cookm346/monty_hall_simulation)
 
 #### Statistics simulation work
