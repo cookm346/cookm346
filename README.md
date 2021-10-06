@@ -1,3 +1,8 @@
+#hp  {
+float: right;    
+ margin: 0 0 0 15px;
+}
+
 ### Select projects
 
 #### Data analysis
@@ -11,7 +16,13 @@
 - [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis)
 
 #### Probability simulation work
-<img float="left" src="images/adi-goldstein-Hli3R6LKibo-unsplash_small.jpg"> [Birthday problem simulation](https://github.com/cookm346/birthday_problem_simulation) I solve the famous Birthday Problem via Monte Carlo simulation
+
+<img align="left" src="images/adi-goldstein-Hli3R6LKibo-unsplash_small.jpg" style="margin-right: 20px;"> [Birthday problem simulation](https://github.com/cookm346/birthday_problem_simulation) 
+
+I solve the famous Birthday Problem via Monte Carlo simulation
+
+<br clear="left"/>
+
 - [Monty Hall simulation](https://github.com/cookm346/monty_hall_simulation)
 
 #### Statistics simulation work
