@@ -28,6 +28,8 @@ I scrape 400,000+ trophy fish records from Manitoba and analyze fish catching tr
 
 I use several machine learning models to predict IMDb episode ratings for Bob Ross' The Joy of Painting episodes
 
+<br clear="left"/>
+
 - [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis)
 
 <br />
