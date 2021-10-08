@@ -30,7 +30,11 @@ I use several machine learning models to predict IMDb episode ratings for Bob Ro
 
 <br clear="left"/>
 
-- [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis)
+<a href="https://github.com/cookm346/lost_episode_analysis"><img align="left" src="images/ben-shanks-fOFOBKwqdfA-unsplash_small.jpg"></a> [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis) 
+
+I use several machine learning models to predict IMDb episode ratings from text descriptions of Lost episodes as well as analyze the defining words of each season
+
+<br clear="left"/>
 
 <br />
 
