@@ -1,6 +1,6 @@
-### Select projects
+## Select projects
 
-#### Data analysis
+### Data analysis
 
 <a href="https://github.com/cookm346/lost_transcript_analysis"><img align="left" src="images/benjamin-behre-PB_SdlCPCDs-unsplash_small.jpg"></a> [LOST transcript analysis](https://github.com/cookm346/lost_transcript_analysis) 
 
@@ -22,7 +22,7 @@ I scrape 400,000+ trophy fish records from Manitoba and analyze fish catching tr
 
 <br />
 
-#### Machine learning projects
+### Machine learning projects
 
 <a href="https://github.com/cookm346/bob_ross_imdb"><img align="left" src="images/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash_small.jpg"></a> [Bob Ross IMDb rating predictions](https://github.com/cookm346/bob_ross_imdb) 
 
@@ -34,7 +34,7 @@ I use several machine learning models to predict IMDb episode ratings for Bob Ro
 
 <br />
 
-#### Probability simulation work
+### Probability simulation work
 
 <a href="https://github.com/cookm346/birthday_problem_simulation"><img align="left" src="images/adi-goldstein-Hli3R6LKibo-unsplash_small.jpg"></a> [Birthday problem simulation](https://github.com/cookm346/birthday_problem_simulation) 
 
@@ -48,7 +48,7 @@ I solve the Monty Hall problem through simulation showing why you should always 
 
 <br clear="left"/>
 
-#### Statistics simulation work
+### Statistics simulation work
 - [Median split simulations](https://github.com/cookm346/median_split_simulation)
 - [t-test simulations](https://github.com/cookm346/t_test_simulation)
 
