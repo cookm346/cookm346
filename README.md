@@ -23,7 +23,11 @@ I scrape 400,000+ trophy fish records from Manitoba and analyze fish catching tr
 <br />
 
 #### Machine learning projects
-- [Bob Ross IMDb rating predictions](https://github.com/cookm346/bob_ross_imdb)
+
+<a href="https://github.com/cookm346/bob_ross_imdb"><img align="left" src="images/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash_small.jpg"></a> [Bob Ross IMDb rating predictions](https://github.com/cookm346/bob_ross_imdb) 
+
+I use several machine learning models to predict IMDb episode ratings for Bob Ross' The Joy of Painting episodes
+
 - [LOST IMDb episode rating prediction](https://github.com/cookm346/lost_episode_analysis)
 
 <br />
