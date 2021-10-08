@@ -56,6 +56,11 @@ I solve the Monty Hall problem through simulation showing why you should always 
 - [Median split simulations](https://github.com/cookm346/median_split_simulation)
 - [t-test simulations](https://github.com/cookm346/t_test_simulation)
 
+<br / >
+
+### Additional projects
+- [Computing Fibonacci numbers using eigenvectors](https://github.com/cookm346/eigenfibs)
+
 <br />
 <br />
 <br />
