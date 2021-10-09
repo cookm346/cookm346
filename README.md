@@ -58,7 +58,7 @@ I solve the Monty Hall problem through simulation showing why you should always 
 
 <br />
 
-<a href="https://github.com/cookm346/eigenfibs"><img align="left" src="images/nandhu-kumar-jAMcUbsTvWE-unsplash_small.jpg"></a> [Computing Fibonacci numbers using eigenvectors](https://github.com/cookm346/eigenfibs) 
+<a href="https://github.com/cookm346/eigenfibs"><img align="left" src="images/ludde-lorentz-YfCVCPMNd38-unsplash.jpg"></a> [Computing Fibonacci numbers using eigenvectors](https://github.com/cookm346/eigenfibs) 
 
 I show how to represent the algorithm that generate fibonacci numbers as a matrix, then use a linear alegbra method called eigendecomposition to generate any fibonacci number without having to compute the preceding numbers in the series
 
