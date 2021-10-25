@@ -58,7 +58,7 @@ I solve the Monty Hall problem through simulation showing why you should always 
 
 <a href="https://github.com/cookm346/median_split_simulation"><img align="left" src="images/scatterplot.PNG"></a> [Median split simulations](https://github.com/cookm346/median_split_simulation) 
 
-I show why it is never benefit to perform a median split (and other splits) on a continuous variable. The main issue is a reduction of statistical power in finding effects (i.e., type 1 errors)
+I show why it is never beneficial to perform a median split (and other splits) on a continuous variable. The main issue is a reduction of statistical power in finding effects (i.e., type 1 errors)
 
 <br clear="left"/>
 
