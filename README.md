@@ -54,13 +54,13 @@ I solve the Monty Hall problem through simulation showing why you should always 
 
 ### Statistics simulation work
 
-<a href="https://github.com/cookm346/median_split_simulation"><img align="left" src="images/scatterplot.jpg"></a> [Median split simulations](https://github.com/cookm346/median_split_simulation) 
+<a href="https://github.com/cookm346/median_split_simulation"><img align="left" src="images/scatterplot.PNG"></a> [Median split simulations](https://github.com/cookm346/median_split_simulation) 
 
 I show why it is never benefit to perform a median split (and other splits) on a continuous variable. The main issue is a reduction of statistical power in finding effects (i.e., type 1 errors)
 
 <br clear="left"/>
 
-<a href="https://github.com/cookm346/t_test_simulation"><img align="left" src="images/histogram.jpg"></a> [t-test simulations](https://github.com/cookm346/t_test_simulation) 
+<a href="https://github.com/cookm346/t_test_simulation"><img align="left" src="images/histogram.PNG"></a> [t-test simulations](https://github.com/cookm346/t_test_simulation) 
 
 In this brief simulation, I demonstrate the dangers of violating the equal sample size and equal variance assumptions while using the Student's t-test. The Welch's t-test also shows it's impressive ability to correct for assumption violations
 
