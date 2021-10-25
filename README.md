@@ -52,6 +52,8 @@ I solve the Monty Hall problem through simulation showing why you should always 
 
 <br clear="left"/>
 
+<br />
+
 ### Statistics simulation work
 
 <a href="https://github.com/cookm346/median_split_simulation"><img align="left" src="images/scatterplot.PNG"></a> [Median split simulations](https://github.com/cookm346/median_split_simulation) 
