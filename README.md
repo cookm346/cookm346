@@ -68,6 +68,8 @@ In this brief simulation, I demonstrate the dangers of violating the equal sampl
 
 <br />
 
+### Additional projects
+
 <a href="https://github.com/cookm346/eigenfibs"><img align="left" src="images/ludde-lorentz-YfCVCPMNd38-unsplash_small.jpg"></a> [Computing Fibonacci numbers using eigenvectors](https://github.com/cookm346/eigenfibs) 
 
 I show how to represent the algorithm that generates fibonacci numbers as a matrix, then use a linear alegbra method called eigendecomposition to generate any fibonacci number without having to compute the preceding numbers in the series
