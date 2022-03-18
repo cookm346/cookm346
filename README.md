@@ -2,7 +2,7 @@
 
 ### Data analysis
 
-<a href="https://github.com/cookm346/mental_health_clustering"><img align="left" src="images/stormseeker-rX12B5uX7QM-unsplash_small.jpg"></a> [LOST transcript analysis](https://github.com/cookm346/mental_health_clustering)
+<a href="https://github.com/cookm346/mental_health_clustering"><img align="left" src="images/stormseeker-rX12B5uX7QM-unsplash_small.jpg"></a> [Mental health clustering analysis](https://github.com/cookm346/mental_health_clustering)
 
 I collect mental health data from over 1800 participants and analyze the data using k-means clustering
 
