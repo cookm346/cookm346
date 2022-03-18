@@ -2,6 +2,12 @@
 
 ### Data analysis
 
+<a href="https://github.com/cookm346/mental_health_clustering"><img align="left" src="images/stormseeker-rX12B5uX7QM-unsplash_small.jpg"></a> [LOST transcript analysis](https://github.com/cookm346/mental_health_clustering)
+
+I collect mental health data from over 1800 participants and analyze the data using k-means clustering
+
+<br clear="left"/>
+
 <a href="https://github.com/cookm346/lost_transcript_analysis"><img align="left" src="images/benjamin-behre-PB_SdlCPCDs-unsplash_small.jpg"></a> [LOST transcript analysis](https://github.com/cookm346/lost_transcript_analysis) 
 
 Analysis of transcripts form the hit tv show Lost. Which characters are known for their use of "dude", "aye", "ain't", and "bloody"?
