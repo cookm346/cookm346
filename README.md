@@ -22,7 +22,7 @@ In this analysis I use Empirical Bayesian techniques to better estimate a boxer'
 
 <a href="https://github.com/cookm346/coha_style"><img align="left" src="images/kimberly-farmer-lUaaKCUANVI-unsplash_small.jpg"></a> [Fiction text analysis](https://github.com/cookm346/coha_style) 
 
-What words define fiction compared to other genres like nonfiction, newspapers, and magazines? I use a simple frequency based approach to answer th quesiton
+What words define fiction compared to other genres like nonfiction, newspapers, and magazines? I use a simple frequency based approach to answer th question
 
 <br clear="left"/>
 
