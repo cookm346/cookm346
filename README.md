@@ -16,7 +16,7 @@ Analysis of transcripts form the hit tv show Lost. Which characters are known fo
 
 <a href="https://github.com/cookm346/coha_style"><img align="left" src="images/kimberly-farmer-lUaaKCUANVI-unsplash_small.jpg"></a> [Fiction text analysis](https://github.com/cookm346/coha_style) 
 
-What words define fiction compared to other genres like nonfiction, newspapers, and magazines? I use a simple frequency based approach to answer th question
+What words define fiction compared to other genres like nonfiction, newspapers, and magazines? I use a simple frequency based approach to answer the question
 
 <br clear="left"/>
 
